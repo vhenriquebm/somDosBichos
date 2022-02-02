@@ -10,13 +10,19 @@
 		42E040CB27AB214B00F4D871 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E040CA27AB214B00F4D871 /* AppDelegate.swift */; };
 		42E040CD27AB214B00F4D871 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E040CC27AB214B00F4D871 /* SceneDelegate.swift */; };
 		42E040CF27AB214B00F4D871 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E040CE27AB214B00F4D871 /* ViewController.swift */; };
-		42E040D227AB214B00F4D871 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42E040D027AB214B00F4D871 /* Main.storyboard */; };
 		42E040D527AB214B00F4D871 /* somDosBichos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 42E040D327AB214B00F4D871 /* somDosBichos.xcdatamodeld */; };
 		42E040D727AB214D00F4D871 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42E040D627AB214D00F4D871 /* Assets.xcassets */; };
 		42E040DA27AB214D00F4D871 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42E040D827AB214D00F4D871 /* LaunchScreen.storyboard */; };
 		42E040E527AB214D00F4D871 /* somDosBichosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E040E427AB214D00F4D871 /* somDosBichosTests.swift */; };
 		42E040EF27AB214D00F4D871 /* somDosBichosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E040EE27AB214D00F4D871 /* somDosBichosUITests.swift */; };
 		42E040F127AB214D00F4D871 /* somDosBichosUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E040F027AB214D00F4D871 /* somDosBichosUITestsLaunchTests.swift */; };
+		42E0410D27AB2A3200F4D871 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42E0410C27AB2A3200F4D871 /* Main.storyboard */; };
+		42E0411527AB2C4900F4D871 /* macaco.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42E0410F27AB2C4900F4D871 /* macaco.mp3 */; };
+		42E0411627AB2C4900F4D871 /* gato.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42E0411027AB2C4900F4D871 /* gato.mp3 */; };
+		42E0411727AB2C4900F4D871 /* leao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42E0411127AB2C4900F4D871 /* leao.mp3 */; };
+		42E0411827AB2C4900F4D871 /* ovelha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42E0411227AB2C4900F4D871 /* ovelha.mp3 */; };
+		42E0411927AB2C4900F4D871 /* vaca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42E0411327AB2C4900F4D871 /* vaca.mp3 */; };
+		42E0411A27AB2C4900F4D871 /* cao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42E0411427AB2C4900F4D871 /* cao.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +47,6 @@
 		42E040CA27AB214B00F4D871 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42E040CC27AB214B00F4D871 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		42E040CE27AB214B00F4D871 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		42E040D127AB214B00F4D871 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		42E040D427AB214B00F4D871 /* somDosBichos.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = somDosBichos.xcdatamodel; sourceTree = "<group>"; };
 		42E040D627AB214D00F4D871 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42E040D927AB214D00F4D871 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +56,13 @@
 		42E040EA27AB214D00F4D871 /* somDosBichosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = somDosBichosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		42E040EE27AB214D00F4D871 /* somDosBichosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = somDosBichosUITests.swift; sourceTree = "<group>"; };
 		42E040F027AB214D00F4D871 /* somDosBichosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = somDosBichosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		42E0410C27AB2A3200F4D871 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		42E0410F27AB2C4900F4D871 /* macaco.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = macaco.mp3; path = "../../../../Downloads/arquivos-necessarios-som-bichos/sons/macaco.mp3"; sourceTree = "<group>"; };
+		42E0411027AB2C4900F4D871 /* gato.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = gato.mp3; path = "../../../../Downloads/arquivos-necessarios-som-bichos/sons/gato.mp3"; sourceTree = "<group>"; };
+		42E0411127AB2C4900F4D871 /* leao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = leao.mp3; path = "../../../../Downloads/arquivos-necessarios-som-bichos/sons/leao.mp3"; sourceTree = "<group>"; };
+		42E0411227AB2C4900F4D871 /* ovelha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ovelha.mp3; path = "../../../../Downloads/arquivos-necessarios-som-bichos/sons/ovelha.mp3"; sourceTree = "<group>"; };
+		42E0411327AB2C4900F4D871 /* vaca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = vaca.mp3; path = "../../../../Downloads/arquivos-necessarios-som-bichos/sons/vaca.mp3"; sourceTree = "<group>"; };
+		42E0411427AB2C4900F4D871 /* cao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = cao.mp3; path = "../../../../Downloads/arquivos-necessarios-som-bichos/sons/cao.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,14 +113,15 @@
 		42E040C927AB214B00F4D871 /* somDosBichos */ = {
 			isa = PBXGroup;
 			children = (
+				42E0410E27AB2C3800F4D871 /* sons */,
 				42E040CA27AB214B00F4D871 /* AppDelegate.swift */,
 				42E040CC27AB214B00F4D871 /* SceneDelegate.swift */,
 				42E040CE27AB214B00F4D871 /* ViewController.swift */,
-				42E040D027AB214B00F4D871 /* Main.storyboard */,
 				42E040D627AB214D00F4D871 /* Assets.xcassets */,
 				42E040D827AB214D00F4D871 /* LaunchScreen.storyboard */,
 				42E040DB27AB214D00F4D871 /* Info.plist */,
 				42E040D327AB214B00F4D871 /* somDosBichos.xcdatamodeld */,
+				42E0410C27AB2A3200F4D871 /* Main.storyboard */,
 			);
 			path = somDosBichos;
 			sourceTree = "<group>";
@@ -128,6 +141,19 @@
 				42E040F027AB214D00F4D871 /* somDosBichosUITestsLaunchTests.swift */,
 			);
 			path = somDosBichosUITests;
+			sourceTree = "<group>";
+		};
+		42E0410E27AB2C3800F4D871 /* sons */ = {
+			isa = PBXGroup;
+			children = (
+				42E0411427AB2C4900F4D871 /* cao.mp3 */,
+				42E0411027AB2C4900F4D871 /* gato.mp3 */,
+				42E0411127AB2C4900F4D871 /* leao.mp3 */,
+				42E0410F27AB2C4900F4D871 /* macaco.mp3 */,
+				42E0411227AB2C4900F4D871 /* ovelha.mp3 */,
+				42E0411327AB2C4900F4D871 /* vaca.mp3 */,
+			);
+			path = sons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,9 +260,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42E0411527AB2C4900F4D871 /* macaco.mp3 in Resources */,
+				42E0411927AB2C4900F4D871 /* vaca.mp3 in Resources */,
+				42E0411827AB2C4900F4D871 /* ovelha.mp3 in Resources */,
+				42E0411A27AB2C4900F4D871 /* cao.mp3 in Resources */,
+				42E0411627AB2C4900F4D871 /* gato.mp3 in Resources */,
+				42E0410D27AB2A3200F4D871 /* Main.storyboard in Resources */,
 				42E040DA27AB214D00F4D871 /* LaunchScreen.storyboard in Resources */,
 				42E040D727AB214D00F4D871 /* Assets.xcassets in Resources */,
-				42E040D227AB214B00F4D871 /* Main.storyboard in Resources */,
+				42E0411727AB2C4900F4D871 /* leao.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,14 +333,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		42E040D027AB214B00F4D871 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				42E040D127AB214B00F4D871 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		42E040D827AB214D00F4D871 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
